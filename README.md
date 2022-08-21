@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ondego12
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning software Engineearing at ALX Africa 
 - 💞️ I’m looking to collaborate on front end development
 - 📫 How to reach me mail brianondego12@gmail.com
 
